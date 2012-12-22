@@ -1,0 +1,1 @@
+These are just small snippets of code I've worked out to make JS Behave the way I'd like.  I either include the .js or c&p the code into projects to save time.
